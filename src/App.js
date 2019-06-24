@@ -1,13 +1,24 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
+import Container from './components/Container'
+import NavBar from './components/NavBar'
+import Jumbo from './components/Jumbo'
 
 
-
-class App extends Component {
-  render(){
-    return (
-      <h1>Aloha world</h1>
-    )
-  }
+function App() {
+  return (
+    <div>
+      <div>
+        <NavBar />
+      </div>
+      <div>
+        <Jumbo />
+      </div>
+      <div>
+        <Container />
+      </div>
+    </div>
+  )
 }
+
 
 export default App;
