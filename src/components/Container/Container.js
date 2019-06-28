@@ -1,9 +1,19 @@
-import React from 'react'
+import React from 'react';
+import tileData from '../../assets/pics.json'
+import { Card, CardImg } from 'reactstrap';
 
-const Container = (props) => {
-    return (
-        <h1>Aloha</h1>
-    )
-}
+let pic = tileData[0].image
+// src="<%= asset_url('path/to/image.png') %>"
+const Example = _ => {
+  
+  return (
 
-export default Container
+    <div>
+      <Card>
+        <CardImg top width="100%" src={} alt={tileData[0].id} />
+      </Card>
+    </div>
+  );
+};
+
+export default Example;

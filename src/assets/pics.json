@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "assets/pic1.png",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/src/assets/pic2.png",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "",
+        "cols": 4,
+        "clicked": false
+    }
+]
